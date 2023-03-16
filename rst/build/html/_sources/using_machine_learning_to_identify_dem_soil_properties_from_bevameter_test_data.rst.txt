@@ -4,7 +4,7 @@ Using Machine Learning to Identify DEM Soil Properties From Bevameter Test Data
 
 Validating The Optimization Process
 ------------------------------------
-`Overview <../_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/dem_val/rpt_dem_val.html>`_
+`Overview <./_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/dem_val/rpt_dem_val.html>`_
 
 | `Sample 2702 <./_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/dem_val/rpt_7_2702_DEM_0.html>`_
 | `Sample 2704 <./_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/dem_val/rpt_7_2704_DEM_0.html>`_
@@ -24,4 +24,4 @@ Validating The Optimization Process
 
 Applying The Process to Test Data
 ------------------------------------
-`Test to DEM <../_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/test_to_dem/test_to_dem.html>`_
+`Test to DEM <./_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/test_to_dem/test_to_dem.html>`_
