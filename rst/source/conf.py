@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.join(os.path.abspath('..\..')))
 import pkg # type: ignore # noqa
 project = pkg.project + ' v' + pkg.version
 author = pkg.author
-copyright = '2021, ' + author
+copyright = '2023, ' + author
 
 # The full version, including alpha/beta/rc tags
 release = pkg.version
