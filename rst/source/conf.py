@@ -87,7 +87,7 @@ math_numfig = True
 math_eqref_format = "({number})"
 
 # Browser Icon
-# html_favicon = '_static/cdm.png'
+html_favicon = '_static/savvyanalyst_transparent.png'
 
 todo_include_todos=True
 todo_link_only = True

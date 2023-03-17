@@ -5,20 +5,12 @@
 
 
 
+
 ==================================================
 Ben Thornton's Publication Data
 ==================================================
 
-.. .. figure:: /_static/cdm.png
-..     :name: cdm
-..     :align: right
-
-        
-.. toctree::
-    :maxdepth: 1
-    :caption: Homepage
-
-    main   
+This is a repository of data and code used in my publications.
 
 
 .. toctree::
@@ -27,16 +19,7 @@ Ben Thornton's Publication Data
 
     using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data
 
-
-
     
-    .. grid-item::
-
-        .. toctree::
-            :maxdepth: 1
-            :caption: Project Management
-
-            todo
 
 
 Support
@@ -47,7 +30,7 @@ For issues or questions contact Ben Thornton at `ben.thornton@hexagon.com <mailt
 .. ===========
 .. Visit the :doc:`Changelog Page <changelog>` for a list of recent changes to the application.
 
-Documentation To Do List
-========================
-Visit the :doc:`Documentation To Do List <todo>` for a list of **documentation** 
-related TODOs.
+.. Documentation To Do List
+.. ========================
+.. Visit the :doc:`Documentation To Do List <todo>` for a list of **documentation** 
+.. related TODOs.
