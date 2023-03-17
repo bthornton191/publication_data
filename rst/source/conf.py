@@ -45,6 +45,7 @@ extensions = [
     # 'sphinxcontrib.fulltoc',
     'sphinxcontrib.globalsubs',
     'sphinx.ext.todo',
+    'sphinx.ext.githubpages',
     'sphinx_design',
 ]
 
