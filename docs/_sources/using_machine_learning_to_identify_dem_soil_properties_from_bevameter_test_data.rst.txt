@@ -2,6 +2,12 @@
 Using Machine Learning to Identify DEM Soil Properties From Bevameter Test Data
 ====================================================================================================
 
+Validating The Reduced Order Model
+----------------------------------
+
+:doc:`ROM Validation Plots <using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data_validating_the_rom>`
+
+
 Validating The Optimization Process
 ------------------------------------
 `Overview <./_static/using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data/rpt/dem_val/rpt_dem_val.html>`_
