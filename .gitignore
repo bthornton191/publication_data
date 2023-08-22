@@ -1,2 +1,6 @@
 /env
 /.vscode/settings.json
+**.mp4
+**.avi
+!docs/_static/design_of_a_flexible_cannon_feed_system_using_multibody_dynamic_simulation_gaussian_process_emulation_and_direct_search_optimization/74746.thornton_264.mp4
+

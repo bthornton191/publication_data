@@ -18,7 +18,7 @@ This is a repository of data and code used in my publications.
     :caption: Publications
 
     using_machine_learning_to_identify_dem_soil_properties_from_bevameter_test_data
-
+    design_of_a_flexible_cannon_feed_system_using_multibody_dynamic_simulation_gaussian_process_emulation_and_direct_search_optimization
     
 
 
